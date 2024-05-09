@@ -1,29 +1,5 @@
-# VueJS-with-Vite
+# Web App
+Our Web App will display information about the game TeamFight Tactics. TeamFight Tactics is an auto chess battle game which has many units you can play to beat your enemy. These units are all unit having their own traits, abilities, and item uses.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# Plans
+Originally wanted to add an API so we didn't have to list all the information about the game such as the champion and item list.
